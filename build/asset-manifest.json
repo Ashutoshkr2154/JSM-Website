@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.js": "/static/js/main.043cc85c.js",
+    "static/media/product_Template.png": "/static/media/product_Template.2ea654cce2645894a489.png",
+    "static/media/banner-bg.png": "/static/media/banner-bg.6790b451d38fd38be241.png",
+    "static/media/IdliPic.jpeg": "/static/media/IdliPic.843034eecc698b24b0c4.jpeg",
+    "static/media/CuminPowder.jpg": "/static/media/CuminPowder.91f590399d376615e81a.jpg",
+    "static/media/SattuPowder.jpg": "/static/media/SattuPowder.93d45c7d9b8d316357b9.jpg",
+    "static/media/multipleSpicesPic.jpeg": "/static/media/multipleSpicesPic.24312c3b2778225817fa.jpeg",
+    "static/media/spices indian.jpeg": "/static/media/spices indian.d170c0fae940a0e9b53b.jpeg",
+    "static/media/RicePowder.jpg": "/static/media/RicePowder.301de3e7609c6b9d6662.jpg",
+    "static/media/ChilliPowder.jpg": "/static/media/ChilliPowder.1a96d1a7faf2e95be290.jpg",
+    "static/media/Besan.jpg": "/static/media/Besan.45adf4a56a871e7b3a9d.jpg",
+    "static/media/TurmericPowderPic.jpeg": "/static/media/TurmericPowderPic.6dec843ea6679bedba53.jpeg",
+    "static/media/DhaniyaPowder.jpg": "/static/media/DhaniyaPowder.f90f2051972c8204eaf1.jpg",
+    "static/media/MixMasalaPowder.jpg": "/static/media/MixMasalaPowder.bccd26eefbbe0dfaf9e8.jpg",
+    "static/media/DosaBatterpic.jpeg": "/static/media/DosaBatterpic.446e09bb5816db28e897.jpeg",
+    "index.html": "/index.html",
+    "main.043cc85c.js.map": "/static/js/main.043cc85c.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.043cc85c.js"
+  ]
+}
